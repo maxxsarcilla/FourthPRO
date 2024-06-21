@@ -1,0 +1,14 @@
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\bin\Debug\net8.0\FourthPRO.exe
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\bin\Debug\net8.0\FourthPRO.deps.json
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\bin\Debug\net8.0\FourthPRO.runtimeconfig.json
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\bin\Debug\net8.0\FourthPRO.dll
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\bin\Debug\net8.0\FourthPRO.pdb
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.AssemblyInfoInputs.cache
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.AssemblyInfo.cs
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.csproj.CoreCompileInputs.cache
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.dll
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\refint\FourthPRO.dll
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.pdb
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\FourthPRO.genruntimeconfig.cache
+C:\Users\nicole\OneDrive\Documents\FourthPRO\FourthPRO\obj\Debug\net8.0\ref\FourthPRO.dll
